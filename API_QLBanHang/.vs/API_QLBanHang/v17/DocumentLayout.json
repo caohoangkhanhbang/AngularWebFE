@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|d:\\mahacode\\memory\\angularandnetcoreapi\\api_qlbanhang\\api_qlbanhang\\controllers\\thucdoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|solutionrelative:api_qlbanhang\\controllers\\thucdoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|d:\\mahacode\\memory\\angularandnetcoreapi\\api_qlbanhang\\api_qlbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|solutionrelative:api_qlbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|d:\\mahacode\\memory\\angularandnetcoreapi\\api_qlbanhang\\api_qlbanhang\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|solutionrelative:api_qlbanhang\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|d:\\mahacode\\memory\\angularandnetcoreapi\\api_qlbanhang\\api_qlbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|solutionrelative:api_qlbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|d:\\mahacode\\memory\\angularandnetcoreapi\\api_qlbanhang\\api_qlbanhang\\api_qlbanhang.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|solutionrelative:api_qlbanhang\\api_qlbanhang.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|d:\\mahacode\\memory\\angularandnetcoreapi\\api_qlbanhang\\api_qlbanhang\\model\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|solutionrelative:api_qlbanhang\\model\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|d:\\mahacode\\memory\\angularandnetcoreapi\\api_qlbanhang\\api_qlbanhang\\model\\thucdonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|solutionrelative:api_qlbanhang\\model\\thucdonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|d:\\mahacode\\memory\\angularandnetcoreapi\\api_qlbanhang\\api_qlbanhang\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612FE2D7-596C-4757-AB7E-19AE4C635DA9}|API_QLBanHang\\API_QLBanHang.csproj|solutionrelative:api_qlbanhang\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Model\\SanPham.cs",
+              "RelativeDocumentMoniker": "API_QLBanHang\\Model\\SanPham.cs",
+              "ToolTip": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Model\\SanPham.cs",
+              "RelativeToolTip": "API_QLBanHang\\Model\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:56:03.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThucDonController.cs",
+              "DocumentMoniker": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Controllers\\ThucDonController.cs",
+              "RelativeDocumentMoniker": "API_QLBanHang\\Controllers\\ThucDonController.cs",
+              "ToolTip": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Controllers\\ThucDonController.cs*",
+              "RelativeToolTip": "API_QLBanHang\\Controllers\\ThucDonController.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:18:21.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_QLBanHang\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_QLBanHang\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:16:48.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonAn.cs",
+              "DocumentMoniker": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Model\\MonAn.cs",
+              "RelativeDocumentMoniker": "API_QLBanHang\\Model\\MonAn.cs",
+              "ToolTip": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Model\\MonAn.cs",
+              "RelativeToolTip": "API_QLBanHang\\Model\\MonAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:06:51.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThucDonClass.cs",
+              "DocumentMoniker": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Model\\ThucDonClass.cs",
+              "RelativeDocumentMoniker": "API_QLBanHang\\Model\\ThucDonClass.cs",
+              "ToolTip": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Model\\ThucDonClass.cs",
+              "RelativeToolTip": "API_QLBanHang\\Model\\ThucDonClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:06:42.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\appsettings.json",
+              "RelativeDocumentMoniker": "API_QLBanHang\\appsettings.json",
+              "ToolTip": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\appsettings.json",
+              "RelativeToolTip": "API_QLBanHang\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T16:04:31.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "API_QLBanHang\\Program.cs",
+              "ToolTip": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\Program.cs*",
+              "RelativeToolTip": "API_QLBanHang\\Program.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:41:27.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API_QLBanHang.http",
+              "DocumentMoniker": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\API_QLBanHang.http",
+              "RelativeDocumentMoniker": "API_QLBanHang\\API_QLBanHang.http",
+              "ToolTip": "D:\\mahaCode\\Memory\\AngularAndNetCoreAPI\\API_QLBanHang\\API_QLBanHang\\API_QLBanHang.http",
+              "RelativeToolTip": "API_QLBanHang\\API_QLBanHang.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-28T16:40:20.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

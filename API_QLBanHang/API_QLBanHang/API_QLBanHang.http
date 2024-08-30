@@ -1,0 +1,6 @@
+@API_QLBanHang_HostAddress = http://localhost:5161
+
+GET {{API_QLBanHang_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
